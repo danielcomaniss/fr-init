@@ -1,0 +1,2 @@
+# fr-init
+forgeops init
